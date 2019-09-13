@@ -37,7 +37,7 @@ div img {
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
- .wrapper {
+ .wrapper wheelbarrow {
   position: absolute;
   z-index: 3;
   top: 217px;
